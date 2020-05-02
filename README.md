@@ -1,2 +1,2 @@
 # hello-world
-#He creado este usuario con la intencion de compartir scripts y/o informacion referente a la manipulacion de datos en R, Phyton, Programas desarrollados por Oracle como Hyperion; etc...
+#He creado este usuario con la intencion de compartir scripts!
